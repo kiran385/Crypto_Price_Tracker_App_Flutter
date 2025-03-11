@@ -1,16 +1,15 @@
-# crypto_sphere
+# Crypto Price Tracker
+## Created a Crypto Price Tracker app in flutter
 
-A new Flutter project.
+You can check latest price of many cryptocurrencies and keep track their price by visualizing the graph
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6ca5b847-9846-4555-b109-ccae3074a3ba" alt="List of Cryptocurrencies" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/e393175e-80b5-4629-8729-e8ec01f7e951" alt="Bitcoin graph" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c4d212bc-9ee1-4347-852e-a7fdfdad0335" alt="Ethereum graph" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/5bc64e48-7929-4583-a736-898da563f478" alt="BNB graph" width="300"></td>
+  </tr>
+</table>
